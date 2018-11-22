@@ -1,0 +1,27 @@
+{
+  "name": "apiloadtest",
+  "version": "1.0.0",
+  "description": "to test the api with concurrency with customized request headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splogamurugan/apiloadtest.git"
+  },
+  "keywords": [
+    "api",
+    "load",
+    "test"
+  ],
+  "author": "splogamurugan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splogamurugan/apiloadtest/issues"
+  },
+  "homepage": "https://github.com/splogamurugan/apiloadtest#readme",
+  "dependencies": {
+    "console.table": "^0.10.0"
+  }
+}
