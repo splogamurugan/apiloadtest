@@ -16,4 +16,4 @@ This project will help developers do a simple load test against their APIs
 
 
 ## How the result looks like?
-![apiload](https://ibb.co/kByiFV)
+<img src="https://preview.ibb.co/g43uNA/apiload.jpg" alt="apiload" border="0"></a><br /><br />
